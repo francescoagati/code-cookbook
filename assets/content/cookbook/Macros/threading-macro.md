@@ -32,7 +32,6 @@ class FunctionThread {
 
 }
 ```
-
 ## A simple example
 
 ```
