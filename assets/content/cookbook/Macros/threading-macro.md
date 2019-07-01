@@ -113,7 +113,7 @@ Main.main();
 })();
 ```
 
-#With Inlined code 
+## With inline function 
 with the code inlined of the function
 
 ```
